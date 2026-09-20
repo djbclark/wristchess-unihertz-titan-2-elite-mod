@@ -1,0 +1,6 @@
+# Ignore downloaded APKs and output
+*.apk
+out/
+decoded/
+.DS_Store
+__pycache__/
