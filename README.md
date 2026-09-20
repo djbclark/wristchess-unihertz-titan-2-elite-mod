@@ -1,8 +1,6 @@
-# AGENTS.md — djbclark's working notes for Wrist Chess on phones (local only, git-excluded)
+# Wrist Chess for Unihertz Titan 2 Elite (arm64 port)
 
-Excluded via `.git/info/exclude`; `CLAUDE.md` symlinks here. Written 2026-09-20
-by Claude Code; update in place. This repo has no remote — it holds a
-redistributed proprietary app, keep it private.
+![Wrist Chess Gameplay Screenshot](gameplay_screenshot.jpg)
 
 ## What this is
 
